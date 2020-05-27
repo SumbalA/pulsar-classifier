@@ -1,6 +1,6 @@
 # Classification of Pulsar Candidates using Gaussian Generative Modeling
 
-##Introduction
+## Introduction
 <p>Radio pulsars are rapidly rotating neutron stars that emit radiofrequency waves with regular periodicity.
 The signals from these objects are extremely weak, meaning that artificial radio sources can easily disturb observations. 
 As a result, we may observe signals that look significant but are actually just a product of this interference. It then becomes a 
@@ -47,9 +47,9 @@ of the features.</p>
 we can use Bayes' Rule to determine the probability of this candidate belonging to a particular class. We predict the most likely class
 given that the candidate has the feature values it does.</p>
 
-##Technologies
+## Technologies
 Python 3.8.3
 
-##Sources
+## Sources
 This code is based on UCSanDiegoX: Machine Learning Fundamentals (2019) winery-classification-gaussian [Source code]. 
 Available at https://prod-edxapp.edx-cdn.org/assets/courseware/v1/2f3a287f717d464a8c58caf77f69881e/asset-v1:UCSanDiegoX+DSE220x+1T2019a+type@asset+block/winery-multivariate.zip
