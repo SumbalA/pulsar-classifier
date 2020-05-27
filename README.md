@@ -47,6 +47,9 @@ of the features.</p>
 we can use Bayes' Rule to determine the probability of this candidate belonging to a particular class. We predict the most likely class
 given that the candidate has the feature values it does.</p>
 
+## Results
+<p> After testing the model using 1,898 candidates, it was found to have a classification error of 3.11%. </p>
+
 ## Technologies
 Python 3.8.3
 
